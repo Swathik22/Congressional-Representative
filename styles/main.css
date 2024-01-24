@@ -1,0 +1,14 @@
+.interest{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:right;
+}
+
+.a{
+    background-color: #47f94a;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
